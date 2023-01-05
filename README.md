@@ -16,6 +16,7 @@ Sternal is a web clothing apparel store contains product images, product names, 
 ### Tools
   - Visual Studio Code
 
+
 ## Design
 ### Fonts
   - [Poppins](https://fonts.google.com/specimen/Poppins)
