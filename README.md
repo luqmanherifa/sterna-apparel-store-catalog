@@ -22,7 +22,7 @@ Deployment
   - [Vercel](https://sternal-luqmanherifa.vercel.app)
   
 Date Created
-  - January 2022
+  - January 2023
 
 ## Design
 Font
