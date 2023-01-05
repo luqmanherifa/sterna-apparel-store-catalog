@@ -11,9 +11,9 @@ Programming
   - JavaScript
 
 Library
-  - Google Fonts
   - jQuery
-
+  - Google Fonts
+  
 Tools
   - Visual Studio Code
   - Figma
