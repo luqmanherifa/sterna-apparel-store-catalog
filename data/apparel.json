@@ -1,0 +1,148 @@
+{
+  "apparel": [
+      {
+          "category": "tops",
+          "name": "Relax Tailored",
+          "price": 999,
+          "image": "tops_relax_tailored.png"
+      },
+      {
+        "category": "tops",
+        "name": "Sweater Mame Kurogouchi",
+        "price": 599,
+        "image": "tops_sweater_mame_kurogouchi.png"
+      },
+      {
+        "category": "tops",
+        "name": "Jersey Relax",
+        "price": 599,
+        "image": "tops_jersey_relax.png"
+      },
+      {
+        "category": "tops",
+        "name": "Utility Parka",
+        "price": 899,
+        "image": "tops_utility_parka.png"
+      },
+      {
+        "category": "tops",
+        "name": "Seamless Down Parka",
+        "price": 1490,
+        "image": "tops_seamless_down_parka.png"
+      },
+      {
+        "category": "tops",
+        "name": "Parka",
+        "price": 599,
+        "image": "tops_parka.png"
+      },
+      {
+        "category": "bottoms",
+        "name": "Crop Loose Damaged",
+        "price": 299,
+        "image": "bottoms_crop_loose_damaged.png"
+      },
+      {
+        "category": "bottoms",
+        "name": "Satin Drape",
+        "price": 299,
+        "image": "bottoms_satin_drape_1.png"
+      },
+      {
+        "category": "bottoms",
+        "name": "Satin Drape",
+        "price": 299,
+        "image": "bottoms_satin_drape_2.png"
+      },
+      {
+        "category": "bottoms",
+        "name": "Pleated Wide",
+        "price": 599,
+        "image": "bottoms_pleated_wide.png"
+      },
+      {
+        "category": "bottoms",
+        "name": "Smart Ankle",
+        "price": 599,
+        "image": "bottoms_smart_ankle.png"
+      },
+      {
+        "category": "bottoms",
+        "name": "Waffle Straight",
+        "price": 299,
+        "image": "bottoms_waffle_straight.png"
+      },
+      {
+        "category": "accessories",
+        "name": "HEATTECH Scarf",
+        "price": 299,
+        "image": "accessories_heattech_scarf.png"
+      },
+      {
+        "category": "accessories",
+        "name": "Twill Cap",
+        "price": 299,
+        "image": "accessories_twill_cap.png"
+      },
+      {
+        "category": "accessories",
+        "name": "Nylon 2WAY Bag",
+        "price": 299,
+        "image": "accessories_nylon_2way_bag.png"
+      },
+      {
+        "category": "accessories",
+        "name": "Utility 2WAY Bag",
+        "price": 499,
+        "image": "accessories_utility_2way_bag.png"
+      },
+      {
+        "category": "accessories",
+        "name": "Corduroy Hat",
+        "price": 299,
+        "image": "accessories_corduroy_hat.png"
+      },
+      {
+        "category": "accessories",
+        "name": "Utility Neck Pouch",
+        "price": 199,
+        "image": "accessories_utility_neck_pouch.png"
+      },
+      {
+        "category": "sneakers",
+        "name": "Dunk Low Retro Panda",
+        "price": 2300,
+        "image": "sneakers_dunk_low_retro_panda.png"
+      },
+      {
+        "category": "sneakers",
+        "name": "Blazer Mid 77 Vintage",
+        "price": 1500,
+        "image": "sneakers_blazer_mid_77_vintage.png"
+      },
+      {
+        "category": "sneakers",
+        "name": "Air Max 90 Toggle",
+        "price": 2000,
+        "image": "sneakers_air_max_90_toggle.png"
+      },
+      {
+        "category": "sneakers",
+        "name": "530 Navy",
+        "price": 2100,
+        "image": "sneakers_530_navy.png"
+      },
+      {
+        "category": "sneakers",
+        "name": "574 Apollo",
+        "price": 1100,
+        "image": "sneakers_574_apollo.png"
+      },
+      {
+        "category": "sneakers",
+        "name": "550 Rain Cloud",
+        "price": 2300,
+        "image": "sneakers_550_rain_cloud.png"
+      }
+  ]
+}

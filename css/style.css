@@ -1,0 +1,132 @@
+* {
+  /* outline: 1px solid red; */
+  font-family: 'Poppins', sans-serif;
+  margin: 0px;
+  padding: 0px;
+  list-style-type: none;
+}
+
+body {
+  background-color: #F4F7F9;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+/* --- Navigation --- */
+.navigation {
+  background-color: #471C2C;
+  width: 100%;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.nav-item ul {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0.3px;
+  margin-left: 100px;
+}
+
+.nav-link {
+  color: #A99E9E;
+}
+
+.nav-link:hover {
+  color: #F9F9F9;
+}
+
+.nav-brand p {
+  font-family: "Playfair Display";
+  font-size: 22px;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  margin-right: 100px;
+  color: #F9F9F9;
+}
+
+.nav-active {
+  color: #F9F9F9;
+}
+
+
+/* --- Hero --- */
+.hero {
+  width: 100%;
+  height: 470px;
+  background-color: #471C2C;
+  display: flex;
+  padding-top: 50px;
+  justify-content: center;
+  gap: 70px;
+}
+
+.hero-img img {
+  width: 600px;
+}
+
+.hero-txt h1 {
+  font-family: "Playfair Display";
+  font-size: 90px;
+  font-weight: 500;
+  width: 370px;
+  letter-spacing: 0.5px;
+  line-height: 90px;
+  color: #F9F9F9;
+}
+
+
+/* --- Product --- */
+.product {
+  width: 100%;
+  padding-top: 50px;
+  padding-bottom: 100px;
+}
+
+.product-title p {
+  font-family: "Playfair Display";
+  font-size: 60px;
+  color: #471C2C;
+  letter-spacing: 0.3px;
+  margin-bottom: 40px;
+  display: flex;
+  justify-content: center;
+  font-weight: 500;
+}
+
+.product-card {
+  display: flex;
+  justify-content: center;
+}
+
+.container-card {
+  width: 1100px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 40px;
+}
+
+.card-img img {
+  width: 320px;
+}
+
+.card-name-price {
+  display: flex;
+  justify-content: space-between;
+  width: 320px;
+}
+
+.card-name-price p {
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0.3px;
+  color: #121212;
+}
