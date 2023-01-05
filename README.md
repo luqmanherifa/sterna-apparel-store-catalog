@@ -4,37 +4,40 @@ Sternal is a web clothing apparel store contains product images, product names, 
 ## Display
 ![Display](https://luqmanherifa.site/img/imgsternal.png)
 
-## Build
-Programming
+## Software
+### Languages
   - HTML/CSS
   - JavaScript
 
-Library
+### Libraries
   - jQuery
   - Google Fonts
   
-Tools
+### Tools
   - Visual Studio Code
-  - Figma
-
-Deployment
-  - [GitHub Pages](https://luqmanherifa.github.io/sternal-clothing-apparel-store)
-  - [Vercel](https://sternal-luqmanherifa.vercel.app)
-  
-Date Created
-  - January 2023
 
 ## Design
-Font
+### Fonts
   - [Poppins](https://fonts.google.com/specimen/Poppins)
   - [Playfair Display](https://fonts.google.com/specimen/Playfair+Display)
 
-Color
+### Colors
   - ![#471C2C](https://placehold.co/20x20/471C2C/471C2C.png)  #471C2C
   - ![#F9F9F9](https://placehold.co/20x20/F9F9F9/F9F9F9.png)  #F9F9F9
   - ![#F4F7F9](https://placehold.co/20x20/F4F7F9/F4F7F9.png)  #F4F7F9
+  
+### Tools
+  - Figma
 
-## Contact
+## Build
+### Deployments
+  - [GitHub Pages](https://luqmanherifa.github.io/sternal-clothing-apparel-store)
+  - [Vercel](https://sternal-luqmanherifa.vercel.app)
+  
+### Date Created
+  - January 2023
+
+## Contacts
   - [Email](mailto:luqmanherifa@gmail.com)
   - [Instagram](https://www.instagram.com/luqmanherifa)
   - [GitHub](https://github.com/luqmanherifa)
