@@ -1,2 +1,2 @@
-# sternal clothing apparel store
+# Sternal: Clothing Apparel Store
  
