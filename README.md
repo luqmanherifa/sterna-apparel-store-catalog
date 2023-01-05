@@ -1,5 +1,5 @@
 # Sternal: Clothing Apparel Store
-Sternal is a web clothing apparel store contains product images, product name, and product price. The project was developed for practicing JSON using HTML, CSS, and JavaScript programming.
+Sternal is a web clothing apparel store contains product images, product names, and product prices. The project was developed for practicing JSON using HTML, CSS, and JavaScript programming.
 
 ## Display
 ![Display](https://luqmanherifa.site/img/imgsternal.png)
