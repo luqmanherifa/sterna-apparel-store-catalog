@@ -20,6 +20,9 @@ Tools
 Deployment
   - [GitHub Pages](https://luqmanherifa.github.io/sternal-clothing-apparel-store)
   - [Vercel](https://sternal-luqmanherifa.vercel.app)
+  
+Date Created
+  - January 2022
 
 ## Design
 Font
