@@ -1,4 +1,4 @@
-# Sternal: Apparel Store Catalog
+# Sterna: Apparel Store Catalog
 Sternal is a web apparel store catalog contains product images, product names, and product prices. The project was developed for practicing JSON using HTML/CSS, JavaScript programming, and jQuery.
 
 ## Display
