@@ -31,7 +31,7 @@ Sternal is a web apparel store catalog contains product images, product names, a
 
 ## Build
 ### Deployments
-  - [GitHub Pages](https://luqmanherifa.github.io/sternal-clothing-apparel-store)
+  - [GitHub Pages](https://luqmanherifa.github.io/sternal-apparel-store-catalog)
   - [Vercel](https://sternal-luqmanherifa.vercel.app)
   
 ### Date Created
