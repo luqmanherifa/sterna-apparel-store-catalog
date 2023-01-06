@@ -37,11 +37,11 @@ Sterna is a web apparel store catalog contains product images, product names, an
 ### Date Created
   - January 2023
 
-## Contacts
+## Socials
   - [Email](mailto:luqmanherifa@gmail.com)
   - [Instagram](https://www.instagram.com/luqmanherifa)
-  - [GitHub](https://github.com/luqmanherifa)
   - [LinkedIn](https://www.linkedin.com/in/luqmanherifa)
+  - [Dribbble](https://dribbble.com/luqmanherifa)
 
 ## Thanks to
   - [Sandhika Galih](https://www.youtube.com/@sandhikagalihWPU)
