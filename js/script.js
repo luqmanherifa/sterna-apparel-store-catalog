@@ -4,17 +4,19 @@ function showAllItems() {
     $.each(apparel, function(i, data) {
       $('.container-card').append(`
         <div class="card">
-          <div class="card-img">
-            <img src="img/`+data.image+`" alt="" />
-          </div>
-          <div class="card-name-price">
-            <div class="card-name">
-              <p>`+data.name+`</p>
+          <a href="">
+            <div class="card-img">
+              <img src="img/`+data.image+`" alt="" />
             </div>
-            <div class="card-price">
-              <p>`+data.price+`K</p>
+            <div class="card-name-price">
+              <div class="card-name">
+                <p>`+data.name+`</p>
+              </div>
+              <div class="card-price">
+                <p>`+data.price+`K</p>
+              </div>
             </div>
-          </div>
+          </a>
         </div>`)
     });
   });
