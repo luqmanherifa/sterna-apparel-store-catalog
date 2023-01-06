@@ -4,7 +4,7 @@ function showAllItems() {
     $.each(apparel, function(i, data) {
       $('.container-card').append(`
         <div class="card">
-          <a href="">
+          <a class="card-hover" href="">
             <div class="card-img">
               <img src="img/`+data.image+`" alt="" />
             </div>
@@ -45,17 +45,19 @@ $('.nav-link').on('click', function() {
       if(data.category == category.toLowerCase()) {
         content += `
         <div class="card">
-          <div class="card-img">
-            <img src="img/`+data.image+`" alt="" />
-          </div>
-          <div class="card-name-price">
-            <div class="card-name">
-              <p>`+data.name+`</p>
+          <a class="card-hover" href="">
+            <div class="card-img">
+              <img src="img/`+data.image+`" alt="" />
             </div>
-            <div class="card-price">
-              <p>`+data.price+`K</p>
+            <div class="card-name-price">
+              <div class="card-name">
+                <p>`+data.name+`</p>
+              </div>
+              <div class="card-price">
+                <p>`+data.price+`K</p>
+              </div>
             </div>
-          </div>
+          </a>
         </div>`
       }
     });

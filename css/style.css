@@ -130,3 +130,11 @@ a {
   letter-spacing: 0.3px;
   color: #121212;
 }
+
+.card-hover:hover p {
+  color: #A94369;
+}
+
+.card-hover:hover img {
+  outline: 3px solid #A94369;
+}
