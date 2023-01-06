@@ -36,8 +36,6 @@ Sterna is a web apparel store catalog contains product images, product names, an
 
 ### Responsive
   - Desktop
-  - Tablet
-  - Mobile
 
 ### Date Created
   - January 2023
