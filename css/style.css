@@ -114,6 +114,14 @@ a {
   gap: 40px;
 }
 
+.card-hover:hover p {
+  color: #A94369;
+}
+
+.card-hover:hover img {
+  outline: 3px solid #A94369;
+}
+
 .card-img img {
   width: 320px;
 }
@@ -131,10 +139,20 @@ a {
   color: #121212;
 }
 
-.card-hover:hover p {
-  color: #A94369;
+
+/* --- Footer --- */
+.footer {
+  padding: 100px 0 40px;
 }
 
-.card-hover:hover img {
-  outline: 3px solid #A94369;
+.footer-txt p {
+  display: flex;
+  justify-content: center;
+  color: #121212;
+  font-size: 13px;
+  font-weight: 500;
+}
+
+.footer-txt:hover p {
+  color: #A94369;
 }
