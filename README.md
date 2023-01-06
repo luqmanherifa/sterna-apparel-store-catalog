@@ -1,8 +1,8 @@
-# Sternal: Clothing Apparel Store
-Sternal is a web clothing apparel store contains product images, product names, and product prices. The project was developed for practicing JSON using HTML/CSS, JavaScript programming, and jQuery.
+# Sterna: Apparel Store Catalog
+Sterna is a web apparel store catalog contains product images, product names, and product prices. The project was developed for practicing JSON using HTML/CSS, JavaScript programming, and jQuery.
 
 ## Display
-![Display](https://luqmanherifa.site/img/imgsternal.png)
+![Display](https://luqmanherifa.site/img/imgsterna.png)
 
 ## Software
 ### Languages
@@ -31,8 +31,8 @@ Sternal is a web clothing apparel store contains product images, product names, 
 
 ## Build
 ### Deployments
-  - [GitHub Pages](https://luqmanherifa.github.io/sternal-clothing-apparel-store)
-  - [Vercel](https://sternal-luqmanherifa.vercel.app)
+  - [GitHub Pages](https://luqmanherifa.github.io/sterna-apparel-store-catalog)
+  - [Vercel](https://sterna-luqmanherifa.vercel.app)
   
 ### Date Created
   - January 2023
