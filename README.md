@@ -5,39 +5,39 @@ Sterna is a web apparel store catalog contains product images, product names, an
 ![Display](https://luqmanherifa.site/img/imgsterna.png)
 
 ## Software
-### Languages
+- ### Languages
   - HTML/CSS
   - JavaScript
 
-### Libraries
+- ### Libraries
   - jQuery
   - Google Fonts
   
-### Tools
+- ### Tool
   - Visual Studio Code
 
 ## Design
-### Fonts
+- ### Fonts
   - [Poppins](https://fonts.google.com/specimen/Poppins)
   - [Playfair Display](https://fonts.google.com/specimen/Playfair+Display)
 
-### Colors
+- ### Colors
   - ![#471C2C](https://placehold.co/20x20/471C2C/471C2C.png)  #471C2C
   - ![#F9F9F9](https://placehold.co/20x20/F9F9F9/F9F9F9.png)  #F9F9F9
   - ![#F4F7F9](https://placehold.co/20x20/F4F7F9/F4F7F9.png)  #F4F7F9
   
-### Tools
+- ### Tool
   - Figma
 
 ## Build
-### Deployments
+- ### Deployments
   - [GitHub Pages](https://luqmanherifa.github.io/sterna-apparel-store-catalog)
   - [Vercel](https://sterna-luqmanherifa.vercel.app)
 
-### Responsive
+- ### Responsive
   - Desktop
 
-### Date Created
+- ### Date Created
   - January 2023
 
 ## Socials
