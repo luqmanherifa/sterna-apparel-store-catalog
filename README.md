@@ -13,7 +13,7 @@ Sterna is a web apparel store catalog contains product images, product names, an
   - jQuery
   - Google Fonts
   
-- ### Tool
+- ### Tools
   - Visual Studio Code
 
 ## Design
@@ -26,7 +26,7 @@ Sterna is a web apparel store catalog contains product images, product names, an
   - ![#F9F9F9](https://placehold.co/20x20/F9F9F9/F9F9F9.png)  #F9F9F9
   - ![#F4F7F9](https://placehold.co/20x20/F4F7F9/F4F7F9.png)  #F4F7F9
   
-- ### Tool
+- ### Tools
   - Figma
 
 ## Build
