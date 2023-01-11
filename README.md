@@ -10,8 +10,8 @@ Sterna is a web apparel store catalog contains product images, product names, an
   - JavaScript
 
 - ### Libraries
-  - jQuery
   - Google Fonts
+  - jQuery
   
 - ### Tools
   - Visual Studio Code
