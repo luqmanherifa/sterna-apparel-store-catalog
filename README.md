@@ -30,6 +30,9 @@ Sterna is a web apparel store catalog contains product images, product names, an
   - Figma
 
 ## Build
+- ### Platform
+  - Web
+  
 - ### Deployments
   - [GitHub Pages](https://luqmanherifa.github.io/sterna-apparel-store-catalog)
   - [Vercel](https://sterna-luqmanherifa.vercel.app)
