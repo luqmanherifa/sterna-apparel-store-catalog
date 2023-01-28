@@ -2,7 +2,7 @@
 Sterna is a web apparel store catalog contains product images, product names, and product prices. The project was developed for practicing JSON using HTML/CSS, JavaScript programming, and jQuery.
 
 ## Display
-![Display](https://luqmanherifav1-luqmanherifa.vercel.app/img/imgsterna.png)
+![Display](https://cdn.dribbble.com/users/6699911/screenshots/20498645/media/bdd08b972687cef09f94a750ef16c9f4.png)
 
 ## Software
 - ### Languages
