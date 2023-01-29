@@ -33,7 +33,7 @@ Sterna is a web apparel store catalog contains product images, product names, an
 - ### Platform
   - Web
   
-- ### Deployments
+- ### Deployment
   - [GitHub Pages](https://luqmanherifa.github.io/sterna-apparel-store-catalog)
   - [Vercel](https://sterna-luqmanherifa.vercel.app)
 
@@ -43,7 +43,7 @@ Sterna is a web apparel store catalog contains product images, product names, an
 - ### Date Created
   - January 2023
 
-## Socials
+## Social
   - [Email](mailto:luqmanherifa@gmail.com)
   - [Instagram](https://www.instagram.com/luqmanherifa)
   - [LinkedIn](https://www.linkedin.com/in/luqmanherifa)
