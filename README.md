@@ -1,5 +1,5 @@
 # Sterna: Apparel Store Catalog
-Sterna is a web apparel store catalog contains product images, product names, and product prices. The project was developed for practicing JSON using HTML/CSS, JavaScript programming, and jQuery.
+Sterna is an apparel store catalog contains information about product display, name, and price based on web. The project was developed for practicing fetch data using JavaScript, jQuery, and HTML/CSS.
 
 ## Display
 ![Display](https://cdn.dribbble.com/users/6699911/screenshots/20498645/media/bdd08b972687cef09f94a750ef16c9f4.png)
