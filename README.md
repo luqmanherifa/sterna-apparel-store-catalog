@@ -1,4 +1,4 @@
-# Sterna: Apparel Store Catalog
+# Sterna: Apparel Store Catalog up
 Sterna is an apparel store catalog contains information about product display, name, and price based on web. The project was developed for practicing fetch data using JavaScript, jQuery, and HTML/CSS.
 
 ## Display
