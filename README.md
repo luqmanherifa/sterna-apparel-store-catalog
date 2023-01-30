@@ -39,7 +39,7 @@ Sterna is an apparel store catalog contains information about product display, n
 - ### Responsive
   - Desktop
 
-- ### Date Created
+- ### Date created
   - January 2023
 
 ## Social
