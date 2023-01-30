@@ -6,13 +6,13 @@ Sterna is an apparel store catalog contains information about product display, n
 
 ## Software
 - ### Languages
-  - HTML/CSS
   - JavaScript
+  - HTML/CSS
 
 - ### Libraries
-  - Google Fonts
   - jQuery
-  
+  - Google Fonts
+
 - ### Tools
   - Visual Studio Code
 
@@ -23,7 +23,6 @@ Sterna is an apparel store catalog contains information about product display, n
 
 - ### Colors
   - ![#471C2C](https://placehold.co/20x20/471C2C/471C2C.png)  #471C2C
-  - ![#F9F9F9](https://placehold.co/20x20/F9F9F9/F9F9F9.png)  #F9F9F9
   - ![#F4F7F9](https://placehold.co/20x20/F4F7F9/F4F7F9.png)  #F4F7F9
   
 - ### Tools
@@ -34,8 +33,8 @@ Sterna is an apparel store catalog contains information about product display, n
   - Web
   
 - ### Deployment
-  - [GitHub Pages](https://luqmanherifa.github.io/sterna-apparel-store-catalog)
   - [Vercel](https://sterna-luqmanherifa.vercel.app)
+  - [GitHub Pages](https://luqmanherifa.github.io/sterna-apparel-store-catalog)
 
 - ### Responsive
   - Desktop
