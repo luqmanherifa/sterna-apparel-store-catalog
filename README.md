@@ -34,7 +34,6 @@ Sterna is an apparel store catalog contains information about product display, n
   
 - ### Deployment
   - [Vercel](https://sterna-luqmanherifa.vercel.app)
-  - [GitHub Pages](https://luqmanherifa.github.io/sterna-apparel-store-catalog)
 
 - ### Responsive
   - Desktop
