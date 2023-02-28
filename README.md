@@ -2,7 +2,7 @@
 Sterna is an apparel store catalog contains information about product display, name, and price based on web. The project was developed for practicing fetch data using JavaScript, jQuery, and HTML/CSS.
 
 ## Display
-![Display](https://cdn.dribbble.com/users/6699911/screenshots/20498645/media/bdd08b972687cef09f94a750ef16c9f4.png)
+![Display](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/src/images/web_sterna.png)
 
 ## Software
 - ### Languages
